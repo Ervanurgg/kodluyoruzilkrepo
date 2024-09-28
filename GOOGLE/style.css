@@ -24,11 +24,28 @@ z-index: 1;
   border-radius: 24px;
   padding:0px 14px;
 }
+.menu-item{
+  margin-top: 50px;
+}
 
-.header.item{
-color: #616366;
+.menu-item1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.menu-item2{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+a{
+  display: table;
+  margin: 20px;
+}
+a:hover{
+color:#90959c ;
 text-decoration: underline;
 }
+
 
 form.search input {
     height: 40px;
